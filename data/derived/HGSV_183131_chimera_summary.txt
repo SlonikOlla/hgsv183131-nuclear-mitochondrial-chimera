@@ -1,0 +1,9 @@
+Positive example rows classified: 83
+Exact known chr17->chrM 36-mer: 56
+Any exact nuclear->mt decomposition: 77
+No exact nuclear->mt decomposition: 4
+
+0_copy_TierA: examples=5 known=4 nucmt=5 none=0
+1_copy: examples=15 known=10 nucmt=14 none=0
+2_copies: examples=60 known=40 nucmt=55 none=4
+other_missing: examples=3 known=2 nucmt=3 none=0

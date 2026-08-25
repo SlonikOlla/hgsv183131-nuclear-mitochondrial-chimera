@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it and the associated manuscript."
+title: "Recurrent nuclear–mitochondrial chimeric RNA-seq reads can mimic transcription from a homozygously deleted human genomic interval"
+type: software
+authors:
+  - family-names: Kovalchuk
+    given-names: Igor
+version: 1.0.0
+date-released: 2026-08-25
+repository-code: "https://github.com/SlonikOlla/hgsv183131-nuclear-mitochondrial-chimera"

@@ -1,0 +1,3 @@
+sample,deletion_chrom,deletion_start,deletion_end,left_5kb_mean_depth,deletion_mean_depth,deletion_zero_fraction,right_5kb_mean_depth,anchor20_mean_depth,anchor20_zero_fraction,WGS_reads_containing_anchor20
+NA06984,chr13,57178406,57214729,30.1934,0.1332,0.973681,29.9572,0.0,1.0,0
+NA19236,chr13,57178406,57214729,31.8026,0.1093,0.979077,32.4218,0.0,1.0,0

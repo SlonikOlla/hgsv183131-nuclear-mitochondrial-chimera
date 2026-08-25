@@ -1,0 +1,13 @@
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+__pycache__/
+.DS_Store
